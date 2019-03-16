@@ -1,1 +1,5 @@
-hoc thuc hanh
+class Calculation { private int a, b; public Calculation(int a, int b) { this.a = a; this.b = b; }
+public int Add() { return this.a + this.b; }
+}
+SVN Merge
+▪ Sau khi chỉnh sửa xong commit thay đổi 
